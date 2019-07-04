@@ -1,15 +1,11 @@
 import React from 'react'
-import { Grid } from '../GlobalStyles'
-import NavBar from '../components/NavBar'
-import Footer from '../components/Footer'
+import Layout from '../components/Layout'
 
 const Projects = () => {
   return (
-    <Grid>
-      <NavBar />
+    <Layout>
       <p>Projects</p>
-      <Footer />
-    </Grid>
+    </Layout>
   )
 }
 

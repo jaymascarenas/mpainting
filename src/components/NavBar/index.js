@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyledLink } from '../../GlobalStyles'
-import { Nav, Img, StyledList } from './Styles'
-import logo from '../../assets/images/logo.png'
+import { Nav, Img, StyledList } from './NavBarStyles'
+import logo from '../../assets/images/logo2.png'
 
 const NavBar = () => {
   return (
